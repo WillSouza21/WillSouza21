@@ -8,14 +8,6 @@
 - 🕒 My current goal is work with Web Development
 <h2 align="left">Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillSouza21&layout=pie&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WillSouza21&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">Projects</h2>
 
-<a href="https://github.com/filipe-2/stargaze">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filipe-2&repo=Stargaze&theme=cobalt" />
-</a>
-
-<a href="https://github.com/AlvesLuis0/pagou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvesLuis0&repo=pagou&theme=cobalt" />
-</a>
